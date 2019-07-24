@@ -2,7 +2,7 @@
 A mod/game-hack i made for a MMORPG called Profane.
 
 # About
-This was a nice mod i was making for the game with some useful features, like aimbot, lighthack and etc. The core funcionalities of the bot were implemented using function hooks through the Harmony library.
+This project started as a research on how to perform binary instrumentation on .NET binaries, it is a mod for a game called Profane which included into the client features such as Aimbot, Remote Vision, ESP and more. The core funcionalities of the bot were implemented using function hooks through the Harmony library.
 
 [How i solved a Game Hacking problem with Machine Learning](https://medium.com/@mateus.pimentel.w/how-i-solved-a-game-hacking-problem-with-machine-learning-4ebadc036b1a)
 
