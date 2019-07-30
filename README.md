@@ -8,16 +8,16 @@ This project started as a research on how to perform binary instrumentation on .
 
 # Features
 
-**Aimbot:** Could automatically turn the screen into the direction of a target. Very usefull in PVP.  
-**ESP:** You can see the name of players that are around you even if they are behing a wall.  
-**LightHack:** You can control the position of the sun, so you can avoid the darkness of the night.  
-**ResourceFinder:** You can find resources, like stones, tress and bushes.  
-**HouseFinder:** You can find houses that are with a little amount of shields.  
-**Remote Vision:** You could toggle the camera to a remote object which you could control and fly around with it.   
+* **Aimbot:** Could automatically turn the screen into the direction of a target. Very usefull in PVP.  
+* **ESP:** You can see the name of players that are around you even if they are behing a wall.  
+* **LightHack:** You can control the position of the sun, so you can avoid the darkness of the night.  
+* **ResourceFinder:** You can find resources, like stones, tress and bushes.  
+* **HouseFinder:** You can find houses that are with a little amount of shields.  
+* **Remote Vision:** You could toggle the camera to a remote object which you could control and fly around with it.   
   Video: https://youtu.be/poDkWlR-1ks  
-**AutoTrain:** You can use two characters to train combats. ( They heal and stop attacking the target if the HP is low. )  
+* **AutoTrain:** You can use two characters to train combats. ( They heal and stop attacking the target if the HP is low. )  
   Video: https://youtu.be/fpZ513wNMjo  
-**Player Detection:** Detect if there is any player around and pause AutoTrain.  
+* **Player Detection:** Detect if there is any player around and pause AutoTrain.  
   Video: https://youtu.be/E4h6Ss5RYo0  
 
   
