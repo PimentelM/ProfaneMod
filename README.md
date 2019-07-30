@@ -13,7 +13,6 @@ This project started as a research on how to perform binary instrumentation on .
 **LightHack:** You can control the position of the sun, so you can avoid the darkness of the night.  
 **ResourceFinder:** You can find resources, like stones, tress and bushes.  
 **HouseFinder:** You can find houses that are with a little amount of shields.  
-
 **Remote Vision:** You could toggle the camera to a remote object which you could control and fly around with it.   
   Video: https://youtu.be/poDkWlR-1ks  
 **AutoTrain:** You can use two characters to train combats. ( They heal and stop attacking the target if the HP is low. )  
