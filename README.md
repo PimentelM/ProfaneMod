@@ -14,13 +14,12 @@ This project started as a research on how to perform binary instrumentation on .
 **ResourceFinder:** You can find resources, like stones, tress and bushes.  
 **HouseFinder:** You can find houses that are with a little amount of shields.  
 
-##### Remote Vision: 
-  You could toggle the camera to a remote object which you could control and fly around with it.   
+**Remote Vision:** You could toggle the camera to a remote object which you could control and fly around with it.   
   Video: https://youtu.be/poDkWlR-1ks  
 **AutoTrain:** You can use two characters to train combats. ( They heal and stop attacking the target if the HP is low. )  
-* Video: https://youtu.be/fpZ513wNMjo  
+  Video: https://youtu.be/fpZ513wNMjo  
 **Player Detection:** Detect if there is any player around and pause AutoTrain.  
-* Video: https://youtu.be/E4h6Ss5RYo0  
+  Video: https://youtu.be/E4h6Ss5RYo0  
 
   
 
